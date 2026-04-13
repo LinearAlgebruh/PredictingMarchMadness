@@ -26,11 +26,11 @@ Johnson: I intend to continue to learn and practice good version control practic
 
 # Risk Statement
 
-
+One risk is the unpredictability of March Madness, so even with a lot of data, our model may not perform that much better than a basic strategy like guessing “win” 50% of the time (and, therefore, “lose” 50% of the time). March Madness’ one-game eliminations and the upsets that come with it can make it hard for patterns in the data to consistently translate into accurate predictions. Another risk is dealing with the size/structure of the dataset. The data may take a lot of time to clean everything into a usable format. This could limit how much time we have to test or tune different models.
 
 # Ethics Statement
 
-
+If our project were successful and deployed, March Madness could be more engaging for fans because predicting brackets would be more informed and data-driven instead of relying purely on intuition and “ball knowledge.” Gamblers have the potential to benefit the most because a model that hypothetically predicts March Madness brackets correctly 100% of the time would give gamblers huge payouts and a lot of money to be made. In contrast, people who don’t have access to machine learning/artificial intelligence models are excluded from the benefits, and gamblers could also be harmed because a successful model would encourage gambling. We think that the world would become an overall better place under the following two assumptions: 1) increasing the accuracy of predictions in sports is a positive use of machine learning, and 2) users will use the model as a tool to support bracket decisions instead of blindly trusting it. With respect to algorithmic bias, our model could be biased toward historically strong teams because of the data. This would then undervalue underdog teams.
 
 # Tentative Timeline
 
