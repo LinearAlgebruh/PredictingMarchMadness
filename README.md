@@ -6,24 +6,29 @@ Riley and Johnson
 
 
 # Abstract
-For both of us, March Madness is a fun part of every spring. With the large amount of data recorded on basketball teams, it is reasonable to suspect that ML algorithms could make fairly accurate predictions for games. The primary use for this project is to make more accurate March Madness brackets, but if it’s successful it could also provide broader insight into which types of teams (ie. playstyles) are more and less effective in the tournament.
+
 
 
 # Motivation and Question
-
+For both of us, March Madness is a fun part of every spring. With the large amount of data recorded on basketball teams, it is reasonable to suspect that ML algorithms could make fairly accurate predictions for games. The primary use for this project is to make more accurate March Madness brackets, but if it’s successful it could also provide broader insight into which types of teams (ie. playstyles) are more and less effective in the tournament.
 
 
 # Planned Deliverables
+
+Full Success: We implement a few different classification algorithms and find at least one which works really well for making predictions. The scope of our data also allows for a number of meaningful extensions, such as predicting final score 
+Partial Success: We implement at least one advanced classification algorithm that is able to predict game outcomes with some degree of accuracy. As an aside, determining an acceptable level of accuracy here is relatively difficult. While anything over 50% would represent an improvement over random guessing, the disparity between college basketball teams is really large, and anyone even slightly informed could likely predict results at a rate better than 50%. 
 
 
 
 # Resources Required
 
+We have access to a very large dataset containing lots of data on D1 college basketball games, linked here (documentation here). From this dataset, we can gather pretty much anything we would want to know about. This dataset includes the winner of each game among other things, so we have both feature and target data. The datasets are also segmented by regular season and march madness. To replicate the situation of a bracket, we can use regular season data as features and March Madness game outcomes as targets. This separation will also make it easy to ensure that we are only using features that we have access to before the game. 
 
 
 # What You Will Learn
 
 Johnson: I intend to continue to learn and practice good version control practices. I’ve had some experience using version control through CSCI 0312 Software Development with Professor Andrews, but I’m excited to use version control more during this project. I also plan to practice teamwork effectively by, for example, communicating with Riley, doing my share of the work, being prepared to work on the project, etc. With respect to project material, I’m excited to use deep learning/neural networks because I don’t have a lot of experience with them. I also want to use the correct evaluation metrics for this project (e.g., are true negatives, false positives, false negatives, or true positives most important?).
+Riley: As a non-CS major, this is going to be my first major coding project, which I am excited about. In particular, I’m excited to get more practice with version control, as it’s not something I have a ton of experience with. I’m also excited to learn about some more advanced classification models like random forest, as this project will provide the perfect opportunity to do so. 
 
 # Risk Statement
 
