@@ -1,11 +1,12 @@
 # PredictingMarchMadness
 
 # Group Members
+Riley and Johnson
 
 
 
 # Abstract
-
+For both of us, March Madness is a fun part of every spring. With the large amount of data recorded on basketball teams, it is reasonable to suspect that ML algorithms could make fairly accurate predictions for games. The primary use for this project is to make more accurate March Madness brackets, but if it’s successful it could also provide broader insight into which types of teams (ie. playstyles) are more and less effective in the tournament.
 
 
 # Motivation and Question
